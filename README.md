@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Changjian
 - 👀 I’m interested in Machine learning and deep learning theory and algorithm.
-- 🌱 I’m currently a postdoc in McGill
-- 💞️ I’m looking to collaborate on responsible and transparent machine learning.
+- 🌱 I’m currently a postdoc at Vector
+- 💞️ I’m looking to collaborate on responsible and safe machine learning.
 - 📫 How to reach me: cjshui.github.io
 
 <!---
